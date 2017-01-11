@@ -1,0 +1,70 @@
+{
+  "name": "react-with-ng2",
+  "version": "0.0.1",
+  "description": "test example reactjs with ng2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potapovDim/react-with-ng2.git"
+  },
+  "keywords": [
+    "react",
+    "ng2",
+    "webpack"
+  ],
+  "author": "Potapov Dmitriy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/potapovDim/react-with-ng2/issues"
+  },
+  "homepage": "https://github.com/potapovDim/react-with-ng2#readme",
+  "dependencies": {
+    "@angular/common": "~2.4.1",
+    "@angular/compiler": "~2.4.1",
+    "@angular/core": "~2.4.1",
+    "@angular/forms": "~2.4.1",
+    "@angular/http": "~2.4.1",
+    "@angular/platform-browser": "~2.4.1",
+    "@angular/platform-browser-dynamic": "~2.4.1",
+    "@angular/router": "~3.4.1",
+    "angular-in-memory-web-api": "~0.2.4",
+    "core-js": "^2.4.1",
+    "react": "15.4.1",
+    "react-dom": "15.4.1",
+    "redux": "3.6.0",
+    "rxjs": "^5.0.1",
+    "systemjs": "0.19.40",
+    "zone.js": "^0.7.4"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.5.36",
+    "@types/node": "^6.0.46",
+    "awesome-typescript-loader": "^3.0.0-beta.17",
+    "canonical-path": "0.0.2",
+    "css-to-string-loader": "^0.1.2",
+    "http-server": "^0.9.0",
+    "jasmine-core": "~2.4.1",
+    "json-loader": "^0.5.4",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-spec-reporter": "0.0.26",
+    "karma-webpack": "^1.8.1",
+    "lodash": "^4.16.4",
+    "protractor": "^4.0.14",
+    "raw-loader": "^0.5.1",
+    "rimraf": "^2.5.4",
+    "tslint": "^3.15.1",
+    "typescript": "~2.0.10",
+    "webdriver-manager": "^11.1.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
