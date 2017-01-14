@@ -3,7 +3,7 @@ import { ReactChildComponentView } from './react/child.tsx'
 @Component({
   selector: 'my-app',
   template: `<div>
-      <h2>{{title}}</h2>
+      <app-header></app-header>
       <h1>Hello {{name}}</h1>
       <div class="react-container" id="react-component-container">
     </div>`,
