@@ -2,11 +2,12 @@
 
 simple example how to run ReactJS component inside angular2 Component
 
+
 **Stack :**
-* [webdriver-manager](https://www.npmjs.com/package/webdriver-manager)
-* [nightwatch](http://nightwatchjs.org/)
-
-
+* [react](https://facebook.github.io/react/)
+* [redux](http://redux.js.org/)
+* [webpack](https://webpack.github.io/)
+* [ng2](https://angular.io/)
 
 ## Install
 
@@ -17,8 +18,5 @@ npm i
 ## Run
  
 ```
-npm test
+npm start
 ```
-
-if you get 'sh: ./test.sh: Permission denied'
-run 'chmod +x test.sh' and after  npm test again 
